@@ -70,7 +70,5 @@ This project was built as a learning exercise in React and mobile development, f
 ## 👤 Author
 
 **Luka Boban**
-GitHub: [https://github.com/YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-LinkedIn: [https://linkedin.com/in/YOUR-PROFILE](https://linkedin.com/in/YOUR-PROFILE)
 
 ---
